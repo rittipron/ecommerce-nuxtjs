@@ -1,0 +1,123 @@
+[
+    {
+      "title": "Open water dive",
+      "description": "Explore the underwater world with our beginner-friendly open water dive course.",
+      "image": "/images/blog/item.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Coral reef adventure",
+      "description": "Discover vibrant coral reefs teeming with marine life on this guided tour.",
+      "image": "/images/blog/item1.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Shipwreck Exploration",
+      "description": "Dive deep to uncover the mystery of sunken ships beneath the ocean surface.",
+      "image": "/images/blog/item2.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Night dive thrill",
+      "description": "Experience the magic of the ocean at night with glowing creatures and calm waters.",
+      "image": "/images/blog/item3.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Underwater photography",
+      "description": "Capture stunning underwater moments in this photography-focused dive tour.",
+      "image": "/images/blog/item3.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Marine biology experience",
+      "description": "Learn about marine ecosystems from a certified expert as you dive.",
+      "image": "/images/blog/item2.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Advanced dive training",
+      "description": "Take your skills to the next level with advanced open-water lessons.",
+      "image": "/images/blog/item1.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Cave diving expedition",
+      "description": "Embark on a thrilling cave diving experience through crystal-clear caverns.",
+      "image": "/images/blog/item.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Island hopping dive",
+      "description": "Dive across multiple scenic islands with pristine waters and tropical fish.",
+      "image": "/images/blog/item.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Eco diving tour",
+      "description": "Help restore coral reefs and learn sustainable diving practices.",
+      "image": "/images/blog/item1.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Beginner refresher course",
+      "description": "Perfect for rusty divers who want to regain confidence in the water.",
+      "image": "/images/blog/item2.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Scuba skills workshop",
+      "description": "Master buoyancy, navigation, and safety skills in this hands-on workshop.",
+      "image": "/images/blog/item3.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Drift diving challenge",
+      "description": "Feel the current and glide through the ocean on this exciting drift dive.",
+      "image": "/images/blog/item3.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Deep sea exploration",
+      "description": "Venture deeper than ever before with our deep sea guided dives.",
+      "image": "/images/blog/item2.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Rescue diver course",
+      "description": "Learn how to assist fellow divers and respond in emergencies.",
+      "image": "/images/blog/item1.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Underwater navigation",
+      "description": "Sharpen your orientation and map-reading skills below the surface.",
+      "image": "/images/blog/item.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Freediving introduction",
+      "description": "Try breath-hold diving with expert instructors and safety techniques.",
+      "image": "/images/blog/item.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Wreck and reef combo",
+      "description": "Explore both artificial shipwrecks and natural reefs in one tour.",
+      "image": "/images/blog/item2.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Kids diving experience",
+      "description": "Safe and fun introduction for young adventurers aged 10+.",
+      "image": "/images/blog/item3.png",
+      "link": "detail/1?page=blog&name="
+    },
+    {
+      "title": "Private dive guide",
+      "description": "Get personalized guidance from a professional instructor on your dive.",
+      "image": "/images/blog/item.png",
+      "link": "detail/1?page=blog&name="
+    }
+  ]
+  

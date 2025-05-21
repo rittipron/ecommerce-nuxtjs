@@ -3,25 +3,28 @@ FROM node:18-alpine AS builder
 
 WORKDIR /app
 
-# Copy package files and install dependencies
-COPY package.json package-lock.json* ./ 
+# copy package.json & lock file
+COPY package.json package-lock.json* ./
+
+# install dependencies
 RUN npm install
 
-# Copy source code
+# copy source code
 COPY . .
 
-# Build production
+# build nuxt app (SSR)
 RUN npm run build
 
 # Production stage
-FROM nginx:alpine
+FROM node:18-alpine
 
-# Copy built files จาก builder stage
-COPY --from=builder /app/.output/public /usr/share/nginx/html
+WORKDIR /app
 
-# Copy custom nginx config
-COPY nginx.conf /etc/nginx/conf.d/default.conf
+# copy build output จาก builder stage
+COPY --from=builder /app/.output ./
 
-EXPOSE 80
+# expose port ที่ nuxt รัน (default 3000)
+EXPOSE 3000
 
-CMD ["nginx", "-g", "daemon off;"]
+# รัน nuxt server (SSR)
+CMD ["node", ".output/server/index.mjs"]

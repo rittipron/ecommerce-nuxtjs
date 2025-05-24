@@ -1,75 +1,29 @@
-# Nuxt Minimal Starter
+# 🛍️ Ecommerce Frontend - Nuxt 3 + Tailwind
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+node version 22.12.0
 
-## Setup
+Modern e-commerce frontend built with Nuxt 3 and Tailwind CSS. 
 
-Make sure to install dependencies:
+## 🚀 Features
 
-```bash
-# npm
+- ⚡ 9+ Pages with Nuxt Routing
+- 📦 API Integration with Laravel backend
+- 🧪 Axios token interceptor (OAuth2)
+- 🎨 Tailwind CSS only (no UI libs)
+
+## 📁 Pages
+
+- `/` – Homepage
+- `/trip` – Trip
+- `/course` – Course
+- `/blog` – Blog
+- `/detail/[id]` Detail [Trip,Course,Blog]
+- `/product` Product List
+- `/product/detail` Product Detail
+- `/about` About
+- `/contact` Contact Us
+  
+## ⚙️ Setup
+
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.

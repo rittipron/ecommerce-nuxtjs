@@ -7,8 +7,6 @@ Modern e-commerce frontend built with Nuxt 3 and Tailwind CSS.
 ## 🚀 Features
 
 - ⚡ 9+ Pages with Nuxt Routing
-- 📦 API Integration with Laravel backend
-- 🧪 Axios token interceptor (OAuth2)
 - 🎨 Tailwind CSS only (no UI libs)
 
 ## 📁 Pages
